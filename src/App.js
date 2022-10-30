@@ -130,6 +130,7 @@ function App() {
               control={<Checkbox value="remember" color="primary" />}
               label="회원가입 약관에 동의합니다."
           />
+
           <Button
               type="submit"
               fullWidth
